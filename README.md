@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nagy</h1>
+<h1 align="center">Hi 👋, I'm Ali Hany</h1>
 <h3 align="center">A passionate frontend react developer from Egypt</h3>
-<img  align="center" alt="Coding" width="100%"  src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img  align="center" alt="Coding" width="100%"  src="https://i.pinimg.com/originals/21/da/f3/21daf30a32d32467c7029dbdf3d36e7c.gif">
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednagy0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednagy0" /> </p>
