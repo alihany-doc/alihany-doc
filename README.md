@@ -9,8 +9,11 @@
 - 💬 Ask me about *exocad*
 - 🔭 I’m currently study Dentistry
 - 🌱 I’m currently learning *exocad and 3shape*
+<p style="display: flex; justify-content: start; align-items: center">
+ <span>- 📫 How to reach me</span> <span>![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</span>
+</p>
 
-- 📫 How to reach me ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+ 
 
 
 
