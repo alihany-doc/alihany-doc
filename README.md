@@ -7,12 +7,14 @@
 
 
 - 💬 Ask me about *exocad*
-- 🔭 I’m currently study in Kasr Al-Ainy
+- 🔭 I’m currently study Dentistry
 - 🌱 I’m currently learning *exocad and 3shape*
 
-- 📫 How to reach me *https://www.linkedin.com/feed/*
+- 📫 How to reach me *(https://www.linkedin.com/in/ali-hany-5742bb374/)*
 
   <br>
 
+
 ## 🌐 Socials:
- [![LinkedIn]https://www.linkedin.com/feed/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+
